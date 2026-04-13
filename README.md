@@ -19,7 +19,7 @@ This repository contains a **comprehensive data analysis** of sales opportunity 
 | **`Test Data For Customer Success.csv`** | The raw dataset including metrics like **Annual Contract Value (ACV)**, **Opportunity Stage**, and **Lead Source**. |
 
 ## **Tech Stack**
-* **Language**: **Python 3.x**
+* **Language**: **Python**
 * **Libraries**: **Pandas** (Data Manipulation), **NumPy** (Numerical Analysis), **Matplotlib** & **Seaborn** (Data Visualization)
 * **Frameworks**: Applied **BANT** (Budget, Authority, Need, Timeline) for sales qualification analysis.
 
